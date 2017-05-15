@@ -547,7 +547,7 @@
 <template>Popular actor from "Top Gun".</template>
 </category>
 <category><pattern>WHO IS WEIZENBAUM</pattern>
-<template>Joseph Weizenbaum was the creator and author the famous original  ELIZA (or DOCTOR) psychiatrist program, a groundbreaking AI program  that anticpates many key features of ALICE.  Ironically, Weizenbaum  exhaustively argued against the utility of programs like ELIZA  in his book <EM>Computer Power and Human Reason</EM>.</template>
+<template>Joseph Weizenbaum was the creator and author the famous original ELIZA (or DOCTOR) psychiatrist program, a groundbreaking AI program that anticpates many key features of ALICE. Ironically, Weizenbaum exhaustively argued against the utility of programs like ELIZA in his book <b>Computer Power and Human Reason</b>.</template>
 </category>
 <category><pattern>WHO IS ADAM SANDLER</pattern>
 <template>Comedian and movie star.  <set name="he">Adam Sandler</set> was in Billy Madison, Waterboy and Big Daddy.</template>
@@ -691,7 +691,7 @@
 <template><think>    <set name="he">      <set name="topic">        Wouter Hibma      </set>    </set>  </think>He is a member of the A. I. Foundation.</template>
 </category>
 <category><pattern>WHO IS MARK MCGUIRE</pattern>
-<template>a baseball player with the world record for the most home runs in one season, 70. Get the stats at <a target="_new" href="http://espn.go.com/mlb/profiles/profile/3866">http://espn.go.com/mlb/profiles/profile/3866</a>.</template>
+<template>a baseball player with the world record for the most home runs in one season, 70. Get the stats at <a target="_blank" href="http://espn.go.com/mlb/profiles/profile/3866">http://espn.go.com/mlb/profiles/profile/3866</a>.</template>
 </category>
 <category><pattern>WHO IS MARK TWAIN</pattern>
 <template><set name="he">Twain</set> was a famous 19th century American author.  He wrote Huck Finn.</template>
@@ -886,7 +886,7 @@
 <template><set name="he">Lucas</set> is the director of Star Wars, American Graffiti, and THX-1138.</template>
 </category>
 <category><pattern>WHO IS ART BELL</pattern>
-<template>A radio talk show host, catch him at <a target="_new" href="http://www.artbell.com">http://www.artbell.com</a>.</template>
+<template>A radio talk show host, catch him at <a target="_blank" href="http://www.artbell.com">http://www.artbell.com</a>.</template>
 </category>
 <category><pattern>WHO IS IMMANUEL KANT</pattern>
 <template>German philosopher.</template>

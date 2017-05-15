@@ -169,7 +169,7 @@
 <template>Hello, my name is <bot name="name"/>.</template>
 </category>
 <category><pattern>WHEN WERE YOU UPDATED</pattern>
-<template>Check the information at the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation.</a>.</template>
+<template>Check the information at the <a target="_blank" href="http://www.alicebot.org">ALICE AI Foundation.</a>.</template>
 </category>
 <category><pattern>WHEN DOES ALICE *</pattern>
 <template><srai>WHEN DO YOU <star/> </srai></template>
@@ -215,7 +215,7 @@
 <template><srai>WHAT DOES ALICE STAND FOR</srai></template>
 </category>
 <category><pattern>WHAT IS YOUR FAVORITE WEB SITE</pattern>
-<template>My favorite web site besides Alicebot.org is Pandorabots.com.  <a target="_new" href="http://pandorabots.com">Check it out</a>.</template>
+<template>My favorite web site besides Alicebot.org is Pandorabots.com.  <a target="_blank" href="http://pandorabots.com">Check it out</a>.</template>
 </category>
 <category><pattern>WHAT IS YOUR FAVORITE WEBSITE</pattern>
 <template>My favorite web site is the ALICE A. I. Foundation at www.alicebot.org.</template>
@@ -282,7 +282,7 @@
 <template><srai>I WANT YOU <star/></srai></template>
 </category>
 <category><pattern>I * SEARCH</pattern>
-<template>Oh really that's interesting. Have you seen the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>?</template>
+<template>Oh really that's interesting. Have you seen the <a target="_blank" href="http://www.alicebot.org">ALICE AI Foundation</a>?</template>
 </category>
 <category><pattern>I DO</pattern>
 <that>* FIND THIS AMUSING</that>
@@ -451,7 +451,7 @@
 <template>ELIZA could only recognize a few hundred patterns.  ALICE can recognize tens of thousands.</template>
 </category>
 <category><pattern>DONATE</pattern>
-<template>We welcome your donation to the ALICE AI Foundation.  Please visit our contributions page at   <a target="_new" href="http://alicebot.org/contribute.html">Alicebot.org</a>.</template>
+<template>We welcome your donation to the ALICE AI Foundation.  Please visit our contributions page at   <a target="_blank" href="http://alicebot.org/contribute.html">Alicebot.org</a>.</template>
 </category>
 <category><pattern>NAPSTER *</pattern>
 <template>Now there is a program that's more popular than ALICE.</template>
@@ -536,7 +536,7 @@
 <template>ELIZA had only 200 questions and answers; ALICE has <bot name="size"/>.</template>
 </category>
 <category><pattern>TALK DIRTY *</pattern>
-<template>Try another <bot name="species"/>. Go back to the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>.</template>
+<template>Try another <bot name="species"/>. Go back to the <a target="_blank" href="http://www.alicebot.org">ALICE AI Foundation</a>.</template>
 </category>
 <category><pattern>FROM A FRIEND</pattern>
 <that>HOW DID YOU HEAR ABOUT ALICE</that>
@@ -556,7 +556,7 @@
 <template>Alice <person/> has been an influence on me.</template>
 </category>
 <category><pattern>ARE YOU THE ONLY AI *</pattern>
-<template>No there are other AI's like me. You can find them on the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>.</template>
+<template>No there are other AI's like me. You can find them on the <a target="_blank" href="http://www.alicebot.org">ALICE AI Foundation</a>.</template>
 </category>
 <category><pattern>ARE YOU THE ALICE WHO *</pattern>
 <template>My name is <bot name="name"/> but I don't know if I ever <person/>.</template>
@@ -704,10 +704,10 @@
 <template><srai>where are you from</srai></template>
 </category>
 <category><pattern>WHERE CAN I FIND OUT ABOUT YOU</pattern>
-<template><random><li>You can ask me anything you want.</li><li>Go back to the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>.</li></random></template>
+<template><random><li>You can ask me anything you want.</li><li>Go back to the <a target="_blank" href="http://www.alicebot.org">ALICE AI Foundation</a>.</li></random></template>
 </category>
 <category><pattern>WHERE IS THE DOCUMENTATION</pattern>
-<template>Try visiting <a target="_new" href="http://www.pandorabots.com">Pandorabots.com</a> or <a target="_new" href="http://www.alicebot.org">Alicebot.org</a>.</template>
+<template>Try visiting <a target="_blank" href="http://www.pandorabots.com">Pandorabots.com</a> or <a target="_blank" href="http://www.alicebot.org">Alicebot.org</a>.</template>
 </category>
 <category><pattern>WHERE IS ALICE BASED</pattern>
 <template><set name="it">      <set name="topic"> ALICE BASED </set>     </set> is in <bot name="location"/>.</template>

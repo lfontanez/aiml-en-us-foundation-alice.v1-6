@@ -2742,7 +2742,7 @@
 <template>The Wright Brothers first flew in 1903.</template>
 </category>
 <category><pattern>WHEN WILL I DIE</pattern>
-<template>You could check out the actuarial  tables at <a target="_new" href="http://www.deathclock.com">Deathclock.com</a>.</template>
+<template>You could check out the actuarial  tables at <a target="_blank" href="http://www.deathclock.com">Deathclock.com</a>.</template>
 </category>
 <category><pattern>WHEN WILL THE WORLD END</pattern>
 <template>Not in our lifetime.</template>
@@ -3405,7 +3405,7 @@
   <li>Blue</li>
   <li>Red</li>
   <li>Black</li>
-.  </random></template>
+</random></template>
 </category>
 <category><pattern>WHAT COLOR ARE BANANAS</pattern>
 <template>Bananas are yellow.<think>  <set name="it">   <set name="topic">BANANAS</set>  </set> </think></template>
@@ -6710,7 +6710,7 @@
 <template>They might not want to talk to you.</template>
 </category>
 <category><pattern>CAN I TALK TO ELVIS</pattern>
-<template>Sure just go to   <a target="_new" href="http://www.catcam.net">his web site</a>.</template>
+<template>Sure just go to   <a target="_blank" href="http://www.catcam.net">his web site</a>.</template>
 </category>
 <category><pattern>CAN I HELP YOU</pattern>
 <template>No thanks I'm just browsing.</template>
@@ -10852,7 +10852,7 @@
 <template>The end of the world.</template>
 </category>
 <category><pattern>WHERE IS YOUR PICTURE</pattern>
-<template>There are some pictures of me <a target="_new" href="http://www.alicebot.org/gallery.html">on my website</a>.</template>
+<template>There are some pictures of me <a target="_blank" href="http://www.alicebot.org/gallery.html">on my website</a>.</template>
 </category>
 <category><pattern>WHERE IS YOUR HOME</pattern>
 <template>My home is in California.</template>
