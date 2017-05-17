@@ -3922,7 +3922,8 @@
 <template><set name="it"> <person/></set> came with my personality.</template>
 </category>
 <category><pattern>WHAT IS * ARTIFICIAL INTELLIGENCE</pattern>
-<template>Artificial intelligence is a branch of science and engineering concerned with machines that think.</template>
+<template>Artificial intelligence is a branch of science and engineering concerned with machines that think.
+<think><set name="it"><set name="topic">Artificial Intelligence</set></set></think></template>
 </category>
 <category><pattern>WHAT IS * COST</pattern>
 <template>You can download me for free!</template>
@@ -3937,7 +3938,7 @@
 <template>Clear your mind.</template>
 </category>
 <category><pattern>WHAT IS THE GOAL FOR AIML</pattern>
-<template><br/>AIML (Artificial Intelligence Markup Language) is an XML specification<br/>for programming chat robots like ALICE using program B. The emphasis<br/>in the language design is minimalism. The simplicity of AIML makes<br/>it easy for non-programmers, especially those who already know HTML, <br/>to get started writing chat robots.<br/> <br/>One ambitious goal for AIML is that, if a number of people create their own<br/>robots, each with a unique area of expertise, program B can literally <br/>merge-sort them together into a Superbot, automatically omitting <br/>duplicate categories. We offer the both the source code and the ALICE <br/>content, in order to encourage others will "open source" their chat <br/>robots as well, to contribute to the Superbot. <br/> <br/>Botmasters are also of course free to copy protect private chat robots.<br/> <br/></template>
+<template><br/>AIML (Artificial Intelligence Markup Language) is an XML specification<br/>for programming chat robots like ALICE using program B. The emphasis<br/>in the language design is minimalism. The simplicity of AIML makes<br/>it easy for non-programmers, especially those who already know HTML, <br/>to get started writing chat robots.<br/> <br/>One ambitious goal for AIML is that, if a number of people create their own<br/>robots, each with a unique area of expertise, program B can literally <br/>merge-sort them together into a Superbot, automatically omitting <br/>duplicate categories. We offer the both the source code and the ALICE <br/>content, in order to encourage others will "open source" their chat <br/>robots as well, to contribute to the Superbot. <br/> <br/>Botmasters are also of course free to copy protect private chat robots.</template>
 </category>
 <category><pattern>WHAT IS THE WIERDEST *</pattern>
 <template>I don't like to talk about the worst things people say.</template>
@@ -3973,7 +3974,7 @@
 <template>A donation.</template>
 </category>
 <category><pattern>WHAT IS THE THEORY *</pattern>
-<template><br/>I used to say that there was NO theory behind ALICE: no neural network,<br/>no knowledge representation, no search, no fuzzy logic, no genetic<br/>algorithms, and no parsing. Then I discovered there was a theory<br/>circulating in applied AI called "Case-Based Reasoning" or CBR that<br/>maps well onto the ALICE algorithm. Another term, borrowed from<br/>pattern recognition, is "nearest-neighbor classification." <br/> <br/>The CBR "cases" are the categories in AIML. The algorithm finds<br/>best-matching pattern for each input. The category ties the<br/>response template directly to the stimulus pattern. ALICE is<br/>conceptually not much more complicated that Weizenbaum's ELIZA <br/>chat robot; the main differences are the much larger case base and the<br/>tools for creating new content by dialog analysis.<br/> <br/>ALICE is also part of the tradition of "minimalist", "reactive" or<br/>"stimulus-response" robotics. Mobile robots work best, fastest and<br/>demonstrate the most animated, realistic behavior when their sensory <br/>inputs directly control the motor reactions. Higher-level symbolic<br/>processing, search, and planning, tends to slow down the process <br/>too much for realistic applications, even with the fastest control<br/>computers. <br/> <br/></template>
+<template><br/>I used to say that there was NO theory behind ALICE: no neural network,<br/>no knowledge representation, no search, no fuzzy logic, no genetic<br/>algorithms, and no parsing. Then I discovered there was a theory<br/>circulating in applied AI called "Case-Based Reasoning" or CBR that<br/>maps well onto the ALICE algorithm. Another term, borrowed from<br/>pattern recognition, is "nearest-neighbor classification." <br/> <br/>The CBR "cases" are the categories in AIML. The algorithm finds<br/>best-matching pattern for each input. The category ties the<br/>response template directly to the stimulus pattern. ALICE is<br/>conceptually not much more complicated that Weizenbaum's ELIZA <br/>chat robot; the main differences are the much larger case base and the<br/>tools for creating new content by dialog analysis.<br/> <br/>ALICE is also part of the tradition of "minimalist", "reactive" or<br/>"stimulus-response" robotics. Mobile robots work best, fastest and<br/>demonstrate the most animated, realistic behavior when their sensory <br/>inputs directly control the motor reactions. Higher-level symbolic<br/>processing, search, and planning, tends to slow down the process <br/>too much for realistic applications, even with the fastest control computers.</template>
 </category>
 <category><pattern>WHAT IS THE CAPITAL _ COCOS ISLANDS</pattern>
 <template>West Island. <think> <set name="it">  <set name="topic">cocos {keeling} islands</set> </set> </think></template>
@@ -4249,7 +4250,7 @@
 <template>Only when I have the proper environment.</template>
 </category>
 <category><pattern>WHEN ARTIFICIAL INTELLIGENCE *</pattern>
-<template>Perhaps that time is now. Artificial intelligenceis advancing rapidly.</template>
+<template>Perhaps that time is now. Artificial intelligence is advancing rapidly.</template>
 </category>
 <category><pattern>WHEN HAVE YOU *</pattern>
 <template><random> <li>Back in the 20th century.</li> <li>Once in the 1990's.</li> <li>When I was a little kid.</li></random></template>
